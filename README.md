@@ -32,6 +32,11 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
 ```
+Program Developed by
+KALAISELVAN J
+212223080022
+```
+```
 import pandas as pd
 df=pd.read_csv(r'D:\data science\Encoding Data.csv')
 df
